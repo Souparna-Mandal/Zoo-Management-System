@@ -41,4 +41,3 @@
 
 - Issues with `findUnreachableAreas` method in the `Zoo` class.
 - Initial implementation of depth first search led to complex issues and unexpected errors.
--
